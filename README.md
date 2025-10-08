@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan Camilo Moná  
 💻 Estudiante de Ingeniería de Sistemas | Técnico en Mesa de Ayuda IT | Desarrollador de software autodidacta
-🚀 Apasionado por la automatización, análisis de datos y seguridad informática.
+🚀 Apasionado por la informática y las matemáticas.
 
 ## 🛠️ Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
